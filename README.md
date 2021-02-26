@@ -16,7 +16,7 @@
 We used a DNN clasifier whose model summary is as follows:
 #### Dataset 1:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/data1.png?raw=true)
-#### Dataset 1:
+#### Dataset 1(Updated):
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/update_data1.png?raw=true)
 #### Dataset 2:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/data2.png?raw=true)
