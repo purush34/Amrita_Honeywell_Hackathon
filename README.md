@@ -1,4 +1,4 @@
-# Amrita_Honeywell_Hackathon
+# Amrita_Honeywell_Hackathon (Team Data Pirates)
 ## Problem set 5
 ### The types of the signals that we observed are as follows: 
 #### Type 1
