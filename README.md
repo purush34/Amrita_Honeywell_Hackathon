@@ -23,6 +23,6 @@ We used a DNN clasifier whose model summary is as follows:
 - [x] Python Keras model as output.
 - [x] The module developed shall read through and parse the csv input files.
 - [x] Model should be built and evaluated within your python code.
-- [x] STM32MX project to be created to evaluate the memory size of the model
-- [x] Ability to detect a combination of conditions - Higher scores
+- [ ] STM32MX project to be created to evaluate the memory size of the model
+- [ ] Ability to detect a combination of conditions - Higher scores
 - [x] Model should be adjustable dynamically to changed sampling rate or number of samples
