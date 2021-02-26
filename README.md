@@ -16,14 +16,16 @@
 We used a DNN clasifier whose model summary is as follows:
 #### Dataset 1:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/data1.png?raw=true)
+#### Dataset 1:
+![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/update_data1.png?raw=true)
 #### Dataset 2:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/data2.png?raw=true)
 #### Dataset 2(Updated):
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/update_data2.png?raw=true)
 
 ### Test Results
-#### Dataset 1: Validation accuracy - 99.33% (using accuracy as a loss function) Test accuracy - 99.416% (using accuracy as a loss function)
-#### Dataset 2: Validation accuracy - 95.08% (using accuracy as a loss function) Test accuracy - 94.359% (using accuracy as a loss function)
+#### Dataset 1: Validation accuracy - 100% (using accuracy as a loss function) Test accuracy - 100% (using accuracy as a loss function)
+#### Dataset 2: Validation accuracy - 95.42% (using accuracy as a loss function) Test accuracy - 95.692% (using accuracy as a loss function)
 
 ### Progress
 - [x] Python Keras model as output.
