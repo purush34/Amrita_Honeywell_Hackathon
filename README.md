@@ -18,6 +18,8 @@ We used a DNN clasifier whose model summary is as follows:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/data1.png?raw=true)
 #### Dataset 2:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/data2.png?raw=true)
+#### Dataset 2(Updated):
+![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/update_data2.png?raw=true)
 
 ### Test Results
 #### Dataset 1: Validation accuracy - 99.33% (using accuracy as a loss function) Test accuracy - 99.416% (using accuracy as a loss function)
