@@ -1,1 +1,11 @@
 # Amrita_Honeywell_Hackathon
+## Type1
+![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/1.png?raw=true)
+## Type2
+![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/2.png?raw=true)
+## Type3
+![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/3.png?raw=true)
+## Type4
+![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/4.png?raw=true)
+## Type5
+![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/5.png?raw=true)
