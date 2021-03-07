@@ -24,8 +24,8 @@ We used a DNN clasifier whose model summary is as follows:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/Dataset2.png?raw=true)
 
 ### Test Results
-#### Dataset 1: Validation accuracy - 100% (using accuracy as a loss function) Test accuracy - 100% (using accuracy as a loss function)
-#### Dataset 2: Validation accuracy - 95.42% (using accuracy as a loss function) Test accuracy - 95.692% (using accuracy as a loss function)
+#### Dataset 1: Test accuracy - 98.87% (using accuracy as a loss function)
+#### Dataset 2: Test accuracy - 97.99% (using accuracy as a loss function)
 
 ### Progress
 - [x] Python Keras model as output.
