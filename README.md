@@ -1,5 +1,4 @@
-# Amrita_Honeywell_Hackathon (Team Data Pirates)
-## Problem set 5
+# Power Quality Classification
 ### The types of the signals that we observed are as follows: 
 #### Type 1
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/1.png?raw=true)
