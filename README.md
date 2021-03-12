@@ -1,7 +1,7 @@
 # Power Quality Classification
 
-## Deep Learning Model
-The results of Multi layer perceptron are as follows:
+
+## Multi Layer Perceptron
 ### Dataset 1:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/MLP/MLP_Model_1.png?raw=true)
 ### STM32CUBEMX Results 
@@ -15,7 +15,7 @@ The results of Multi layer perceptron are as follows:
 #### Dataset 1: Test accuracy - 98.79% (using accuracy as a loss function)
 #### Dataset 2: Test accuracy - 94.88% (using accuracy as a loss function)
 
-The results of CNN are as follows:
+## CNN
 ### Dataset 1:
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/CNN/CNN_Model_1.png?raw=true)
 ### STM32CUBEMX Results 
