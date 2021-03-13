@@ -13,7 +13,7 @@
 
 ### Test Results
 #### Dataset 1: Test accuracy - 98.79% (using accuracy as a loss function)
-#### Dataset 2: Test accuracy - 94.88% (using accuracy as a loss function)
+#### Dataset 2: Test accuracy - 95.74% (using accuracy as a loss function)
 
 ## CNN
 ### Dataset 1:
