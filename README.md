@@ -12,12 +12,14 @@
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/MLP/MLP_STM_Data2.png?raw=true)
 
 ### Test Results
-#### Dataset 1: Test accuracy - 100% (using accuracy as a loss function)
-####            Train accuracy - 99.97%
-####            Validation accuracy - 99.92%
-#### Dataset 2: Test accuracy - 99.24% (using accuracy as a loss function)
-####            Train accuracy - 100%
-####            Validation accuracy - 99.94%
+#### Dataset 1: 
+#### Test accuracy - 100% (using accuracy as a loss function)
+#### Train accuracy - 99.97% </pre>
+#### Validation accuracy - 99.92%
+#### Dataset 2: 
+#### Test accuracy - 99.24% (using accuracy as a loss function)
+#### Train accuracy - 100%
+#### Validation accuracy - 99.94%
 
 ## CNN
 ### Dataset 1:
@@ -30,12 +32,14 @@
 ![alt text](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/images/CNN/CNN_STM_Data2.png?raw=true)
 
 ### Test Results
-#### Dataset 1: Test accuracy - 100% (using accuracy as a loss function)
-####            Train accuracy - 100%
-####            Validation accuracy - 100%
-#### Dataset 2: Test accuracy - 99.80% (using accuracy as a loss function)
-####            Train accuracy - 99.74%
-####            Validation accuracy - 100%
+#### Dataset 1: 
+#### Test accuracy - 100% (using accuracy as a loss function)
+#### Train accuracy - 100%
+#### Validation accuracy - 100%
+#### Dataset 2: 
+#### Test accuracy - 99.80% (using accuracy as a loss function)
+#### Train accuracy - 99.74%
+#### Validation accuracy - 100%
 
 
 
